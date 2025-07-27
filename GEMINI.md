@@ -60,6 +60,7 @@ Deployment: Instructions for building and running the project using Docker and D
 2. Initial Project Structure
 Lay out the initial directory structure for the project. For example:
 
+```
 /
 ├── api/             # API handlers and routing
 ├── cmd/             # Main application entrypoints
@@ -75,6 +76,7 @@ Lay out the initial directory structure for the project. For example:
 ├── go.mod           # (if using Go)
 ├── LICENSE
 └── README.md
+```
 
 3. Foundational Go/Rust Code
 Generate the initial, runnable Go or Rust code for the main API server. This code should include:
