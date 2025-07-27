@@ -12,7 +12,7 @@
     "bun@0.8.1",
     "nodejs@latest",
     "python@latest",
-    "elixir@latest",
+    "elixir@1.18.1",
     "erlang@latest",
     "gleam@latest"
   ],
