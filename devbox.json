@@ -9,7 +9,7 @@
     "zsh@latest",
     "fh@latest",
     "ruby@latest",
-    "bun@latest",
+    "bun@0.8.1",
     "nodejs@latest",
     "python@latest",
     "elixir@latest",
