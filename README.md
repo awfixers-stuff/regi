@@ -1,3 +1,3 @@
 # Regi
 
-> *the registary that will solve all your registary issues.*
+> *the registry that will solve all your registry issues.*
