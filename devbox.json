@@ -7,7 +7,7 @@
     "gh@latest",
     "glab@latest",
     "zsh@latest",
-    "fh@latest",
+    "fh@0.1.24",
     "ruby@latest",
     "bun@0.8.1",
     "nodejs@latest",
