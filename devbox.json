@@ -13,7 +13,7 @@
     "nodejs@latest",
     "python@latest",
     "elixir@latest",
-    "erlang@latest",
+    "erlang@23.3.4",
     "gleam@latest"
   ],
   "shell": {
