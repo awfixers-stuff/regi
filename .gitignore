@@ -1,0 +1,13 @@
+*.lock
+.env
+.env.local
+.env.prod
+.env.dev
+.devbox/
+package-lock.json
+pmpm-lock.yaml
+.next
+.nuxt
+.vercel
+.output
+dist/
