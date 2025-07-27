@@ -14,7 +14,7 @@
     "python@latest",
     "elixir@latest",
     "erlang@latest",
-    "gleam@latest"
+    "gleam@0.34.0"
   ],
   "shell": {
     "init_hook": [
