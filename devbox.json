@@ -10,7 +10,7 @@
     "fh@0.1.24",
     "ruby@latest",
     "bun@0.8.1",
-    "nodejs@latest",
+    "nodejs@10.24.1",
     "python@latest",
     "elixir@latest",
     "erlang@latest",
