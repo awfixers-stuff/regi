@@ -8,7 +8,7 @@
     "glab@latest",
     "zsh@latest",
     "fh@0.1.24",
-    "ruby@latest",
+    "ruby@2.7.8",
     "bun@0.8.1",
     "nodejs@latest",
     "python@latest",
